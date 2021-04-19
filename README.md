@@ -1,0 +1,19 @@
+# Ъ Ultimate
+Ъ
+### Основное
+- [YouTube](https://www.youtube.com/channel/UCDdGMAZltsQPr6x4kIyZdDw)
+- [Михайлова](http://kadm.kmath.ru/pages.php?id=mikhailova)
+- [Матлог](https://www.youtube.com/playlist?list=PLwUuV2kDT4JAmbDUv-alGWIzRNChWC1nF)
+- [ФИЛП успеваемость](https://docs.google.com/spreadsheets/d/1NalQDoM-AjJmn87JtpGF0svEb282TBsLvd8gvtsocUg/edit#gid=0)
+- [Диффуры](https://www.youtube.com/playlist?list=PLwUuV2kDT4JCwmSYH9QWxXS21ACG2Fy4i)
+- [Интернет](https://www.youtube.com/playlist?list=PLwUuV2kDT4JBbUtdBrcQaMXzbgoFSep2I)
+- [Автоматы](https://www.youtube.com/playlist?list=PLwUuV2kDT4JCKR0i75QaCDTY8mvfgl2Qz)
+- [Автоматы успеваемость](https://docs.google.com/spreadsheets/d/1fZBEhlKpe2vKjntYP0qOVJSWx3Yy-ByF3wziZC5yMxw/edit#gid=0)
+- [Комбинаторные алгоритмы](https://www.youtube.com/playlist?list=PLwUuV2kDT4JCt-cDstUCp8MJGbPiBBxmj)
+
+
+### Полезное
+- [Drive 1](https://drive.google.com/drive/u/0/folders/0BxZGCrhoyRfPfnduRVdyUGNBS0dreDQ2VjZiQXZXbkhsUzNoa2tvMTlybHlxRndvR2ctSVU)
+- [Drive 2](https://drive.google.com/drive/folders/1YBKL2HrNYOU-Rjc5w7iIIUXUpAbK1-92)
+- [Notion](https://www.notion.so/9b9517738a8c4954816ede40958a5d0d?v=97f7e4b2fed24f708ee783e89c82742a)
+- [Mat-mex](https://mat-mex.github.io/old-site-with-conspects/)
