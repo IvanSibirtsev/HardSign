@@ -6,10 +6,12 @@
 - [Матлог](https://www.youtube.com/playlist?list=PLwUuV2kDT4JAmbDUv-alGWIzRNChWC1nF)
 - [ФИЛП успеваемость](https://docs.google.com/spreadsheets/d/1NalQDoM-AjJmn87JtpGF0svEb282TBsLvd8gvtsocUg/edit#gid=0)
 - [Диффуры](https://www.youtube.com/playlist?list=PLwUuV2kDT4JCwmSYH9QWxXS21ACG2Fy4i)
-- [Интернет](https://www.youtube.com/playlist?list=PLwUuV2kDT4JBbUtdBrcQaMXzbgoFSep2I)
+- [Протоколы](https://www.youtube.com/playlist?list=PLwUuV2kDT4JBbUtdBrcQaMXzbgoFSep2I)
+- [Протоколы успеваемость](https://docs.google.com/spreadsheets/d/1TtuakoiV9Bt9GK49bCV8XEFbwN4JxXVALPj1GUSbWyw/edit#gid=1525888059)
 - [Автоматы](https://www.youtube.com/playlist?list=PLwUuV2kDT4JCKR0i75QaCDTY8mvfgl2Qz)
 - [Автоматы успеваемость](https://docs.google.com/spreadsheets/d/1fZBEhlKpe2vKjntYP0qOVJSWx3Yy-ByF3wziZC5yMxw/edit#gid=0)
 - [Комбинаторные алгоритмы](https://www.youtube.com/playlist?list=PLwUuV2kDT4JCt-cDstUCp8MJGbPiBBxmj)
+- [Комбинаторные алгоритмы успеваемость](https://docs.google.com/spreadsheets/d/e/2PACX-1vSCszfIxo0bvrlsacBSy_Ua5mgaHcr0iJYhbIfsrOrdD4uzPSxZ_vQO9utmwWB1NpxghMckvZNKmGBI/pubhtml)
 
 
 ### Полезное
