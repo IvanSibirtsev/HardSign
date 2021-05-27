@@ -11,7 +11,7 @@
 - [Автоматы](https://www.youtube.com/playlist?list=PLwUuV2kDT4JCKR0i75QaCDTY8mvfgl2Qz)
 - [Автоматы успеваемость](https://docs.google.com/spreadsheets/d/1fZBEhlKpe2vKjntYP0qOVJSWx3Yy-ByF3wziZC5yMxw/edit#gid=0)
 - [Комбинаторные алгоритмы](https://www.youtube.com/playlist?list=PLwUuV2kDT4JCt-cDstUCp8MJGbPiBBxmj)
-- [Notion](https://www.notion.so/b2f99924bf204038ab27dd177e5d1d50#bbdd31bf31604f1b8c63d46a21d91a51)
+- [Notion](https://www.notion.so/c1a34a384d5745f48df56dc8f578de34)
 - [Комбинаторные алгоритмы успеваемость](https://docs.google.com/spreadsheets/d/e/2PACX-1vSCszfIxo0bvrlsacBSy_Ua5mgaHcr0iJYhbIfsrOrdD4uzPSxZ_vQO9utmwWB1NpxghMckvZNKmGBI/pubhtml)
 
 
