@@ -13,7 +13,7 @@
 - [Комбинаторные алгоритмы](https://www.youtube.com/playlist?list=PLwUuV2kDT4JCt-cDstUCp8MJGbPiBBxmj)
 - [Notion](https://www.notion.so/c1a34a384d5745f48df56dc8f578de34)
 - [Комбинаторные алгоритмы успеваемость](https://docs.google.com/spreadsheets/d/e/2PACX-1vSCszfIxo0bvrlsacBSy_Ua5mgaHcr0iJYhbIfsrOrdD4uzPSxZ_vQO9utmwWB1NpxghMckvZNKmGBI/pubhtml)
-
+- [НАШ ЛЮБИМЫЙ ГУГЛ ДИСК](https://drive.google.com/drive/folders/1iIzUgdtv8P5tMwFD8RgFY3iywvCTpsao)
 
 ### Полезное
 - [Drive 1](https://drive.google.com/drive/u/0/folders/0BxZGCrhoyRfPfnduRVdyUGNBS0dreDQ2VjZiQXZXbkhsUzNoa2tvMTlybHlxRndvR2ctSVU)
